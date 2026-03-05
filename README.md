@@ -7,7 +7,7 @@
 
 🌍 Based in **Türkiye**
 
-💻 **Interested in**
+## 💻 **Interested in**
 
 - Software Development
 - Android Development
@@ -24,7 +24,7 @@
 - Object-Oriented Programming (OOP)
 - SOLID Principles & Clean Code
 
-🧠 Self-studying **German (Currently A2–B1 level)**
+## 🧠 Self-studying **German (Currently A2–B1 level)**
 
 
 
@@ -34,7 +34,7 @@
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -44,14 +44,14 @@
 
 </div>
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hasan-turhan&repo=smart-vocabulary-trainer&theme=tokyonight)](https://github.com/hasan-turhan/smart-vocabulary-trainer)
 
 </p>
-📫 Let's Connect!
+## 📫 Let's Connect!
 
 <p align="left">
 
