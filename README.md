@@ -18,4 +18,6 @@
 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hasan-turhan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasan-turhan&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
