@@ -38,7 +38,7 @@
 </div>
 
 ---
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <p align="center">
 
