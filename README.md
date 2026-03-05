@@ -61,11 +61,9 @@ Hi! I'm a third-year Software Engineering student passionate about improving my 
 
 ## 🚀 Featured Project
 
+Android application designed to help users learn German vocabulary through interactive flashcards.
+
 <p align="center">
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hasan-turhan&repo=smart-vocabulary-trainer&theme=tokyonight)](https://github.com/hasan-turhan/smart-vocabulary-trainer)
-
-</p>
 
 
 <p align="center">
