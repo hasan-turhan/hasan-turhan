@@ -57,3 +57,8 @@
 </a>
 
 </p>
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,kotlin,java,python,git,github,mysql,androidstudio"/>
+</p>
