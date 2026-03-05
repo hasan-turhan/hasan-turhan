@@ -1,5 +1,7 @@
 ## 👨‍💻 About Me
 
+Hi! I'm a third-year Software Engineering student passionate about building mobile and web applications and continuously improving my software engineering skills.
+
 🎓 **Software Engineering Student** | 📱 **Mobile & Web Development Enthusiast**
 
 💼 Actively looking for a **mandatory summer software engineering internship (Pflichtpraktikum) in Germany**  
