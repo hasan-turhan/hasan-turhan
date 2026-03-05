@@ -62,5 +62,5 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,java,python,git,github,mysql,androidstudio&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,reacht,java,python,git,github,mysql,androidstudio&perline=5" />
 </p>
