@@ -1,16 +1,14 @@
-## Hi there 👋
+👨‍💻 About Me
 
-<!--
-**hasan-turhan/hasan-turhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student | 📱 Mobile & Web Developer
 
-Here are some ideas to get you started:
+🌍 Based in Türkiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in software development, Android, WEB developement
+ Currently learning Python Programming Language
+
+🧠 Self-studying German (Currently A2-B1)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hasan-turhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
