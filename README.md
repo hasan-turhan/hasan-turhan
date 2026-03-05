@@ -1,16 +1,42 @@
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Software Engineering student | 📱 Mobile & Web Developer
+🎓 **Software Engineering Student** | 📱 **Mobile & Web Development Enthusiast**
 
-💼 Actively looking for a summer software engineering mandatory internship (Pflichtpraktikum) in Germany (Available June 22 - Sept 8 2026).
+💼 Actively looking for a **mandatory summer software engineering internship (Pflichtpraktikum) in Germany**
+📅 Available: **June 22 – September 8, 2026**
 
-🌍 Based in Türkiye
+🌍 Based in **Türkiye**
 
-💻 Interested in software development, Android Dev, WEB Dev, Database Systems, Object-Oriented Programming 
+💻 Interested in:
 
- Currently learning Python Programming Language
- 
-🧠 Self-studying German (Currently A2-B1)
+* Software Development
+* Android Development
+* Web Development
+* Database Systems
+* Object-Oriented Programming
+
+🌱 Currently learning **Python**
+
+🧠 Self-studying **German (A2–B1 level)**
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hasan-turhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hasan-turhan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasan-turhan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hasan-turhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
