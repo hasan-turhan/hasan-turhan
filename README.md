@@ -59,6 +59,8 @@
 </p>
 
 
-<p align="center">🛠 Tech Stack align
-<img src="https://skillicons.dev/icons?i=html,css,javascript,kotlin,java,python,git,github,mysql,androidstudio"/>
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,java,python,git,github,mysql,androidstudio&perline=5" />
 </p>
