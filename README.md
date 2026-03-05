@@ -36,24 +36,24 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasan-turhan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-## 📫 Let's Connect!
 
-<p align="left">
-
-<a href="www.linkedin.com/in/hasanturhan" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="hasanturhan728@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</p>
----
 ## 🚀 Featured Projects
 
 <p align="center">
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hasan-turhan&repo=smart-vocabulary-trainer&theme=tokyonight)](https://github.com/hasan-turhan/smart-vocabulary-trainer)
+
+</p>
+## 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/hasanturhan" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Hasan%20Turhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hasanturhan728@gmail.com">
+<img src="https://img.shields.io/badge/Email-hasanturhan728@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
