@@ -41,3 +41,10 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hasan-turhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+## 🚀 Projects
+
+<p align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasan-turhan&repo=smart-vocabulary-trainer&theme=tokyonight)](https://github.com/hasan-turhan/smart-vocabulary-trainer)
+
+</p>
