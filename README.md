@@ -17,7 +17,5 @@
 </div>
 📊 GitHub Stats
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=hasan-turhan&show_icons=true&theme=radium&hide_border=true" alt="Hasan's GitHub Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-turhan&layout=compact&theme=radium&hide_border=true" />
 </div>
