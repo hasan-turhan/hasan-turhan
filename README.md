@@ -14,8 +14,14 @@
 * Web Development
 * Database Systems
 * Object-Oriented Programming
+* 
+## 🌱 Currently Learning
 
-🌱 Currently learning **Python**
+- Python Programming
+- REST API Development
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- SOLID Principles & Clean Code
 
 🧠 Self-studying **German (Currently A2–B1 level)**
 
