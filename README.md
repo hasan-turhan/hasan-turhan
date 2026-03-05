@@ -9,12 +9,13 @@
 
 💻 **Interested in**
 
-* Software Development
-* Android Development
-* Web Development
-* Database Systems
-* Object-Oriented Programming
-* 
+- Software Development
+- Android Development
+- Web Technologies
+- Database Systems
+- Object-Oriented Programming (OOP)
+
+
 ## 🌱 Currently Learning
 
 - Python Programming
