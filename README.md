@@ -65,6 +65,12 @@
 
 </p>
 
+
+<p align="center">
+<a href="./Hasan_Turhan_CV.pdf">
+<img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=readthedocs&logoColor=white">
+</a>
+</p>
 ---
 
 ## 📫 Connect with Me
