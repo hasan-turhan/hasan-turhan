@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi! I'm a third-year Software Engineering student passionate about building mobile and web applications and continuously improving my software engineering skills.
+Hi! I'm a third-year Software Engineering student passionate about improving my software engineering skills.
 
 🎓 **Software Engineering Student** | 📱 **Mobile & Web Development Enthusiast**
 
