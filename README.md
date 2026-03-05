@@ -57,7 +57,7 @@
 </a>
 
 </p>
-🛠 Tech Stack
+<p 🛠 Tech Stack align="center">s
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,kotlin,java,python,git,github,mysql,androidstudio"/>
