@@ -45,6 +45,10 @@
 
 <p align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasan-turhan&repo=smart-vocabulary-trainer&theme=tokyonight)](https://github.com/hasan-turhan/smart-vocabulary-trainer)
+## 🚀 Projects
+
+<p align="center">
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hasan-turhan&repo=smart-vocabulary-trainer&theme=tokyonight)](https://github.com/hasan-turhan/smart-vocabulary-trainer)
 
 </p>
