@@ -44,9 +44,9 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hasan-turhan&repo=smart-vocabulary-trainer&theme=tokyonight)](https://github.com/hasan-turhan/smart-vocabulary-trainer)
 
 </p>
-## 📫 Let's Connect!
+📫 Let's Connect!
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/hasanturhan" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
