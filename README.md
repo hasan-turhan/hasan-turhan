@@ -6,7 +6,7 @@
 
 🌍 Based in Türkiye
 
-💻 Interested in software development, Android, WEB developement
+💻 Interested in software development, Android Dev, WEB Dev, Database Systems, Object-Oriented Programming 
 
  Currently learning Python Programming Language
  
