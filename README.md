@@ -9,7 +9,7 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 
 🌍 Based in **Türkiye**
 
-🧠 Currently self-studying German (A2–B1 level)**
+🧠 Currently self-studying **German (A2–B1 level)**
 
 ---
 
