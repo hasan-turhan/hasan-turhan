@@ -1,15 +1,15 @@
 ## 👨‍💻 About Me
 
-Hi! I'm a third-year Software Engineering student passionate about improving my software engineering skills.
+Hi! I'm a Software Engineering student focused on building practical software projects and improving my engineering skills..
 
-🎓 **Software Engineering Student** | 📱 **Mobile & Web Development Enthusiast**
+🎓 **Software Engineering Student** | 📱 **Mobile and Web Development Enthusiast**
 
 💼 Actively looking for a **mandatory summer software engineering internship (Pflichtpraktikum) in Germany**  
 📅 **Available:** June 22 – September 8, 2026
 
 🌍 Based in **Türkiye**
 
-🧠 Self-studying **German (A2–B1 level)**
+🧠 Currently self-studying German (A2–B1 level)**
 
 ---
 
