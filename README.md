@@ -16,7 +16,7 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,java,python,git,github,mysql,androidstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,java,python,git,github,postgresql,androidstudio" />
 </p>
 
 ---
