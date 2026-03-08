@@ -27,6 +27,7 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 - Android Development
 - Web Technologies
 - Database Systems
+- Machine Learning
 - Object-Oriented Programming (OOP)
 
 ---
