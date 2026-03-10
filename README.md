@@ -27,7 +27,7 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 - Android Development
 - Web Technologies
 - Database Systems
-- Machine Learning
+- AI
 - Object-Oriented Programming (OOP)
 
 ---
@@ -36,6 +36,7 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 
 - Python Programming
 - REST API Development
+- Machine Learning
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - SOLID Principles & Clean Code
