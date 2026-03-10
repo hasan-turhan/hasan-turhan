@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi! I'm a Software Engineering student focused on building practical software projects and improving my engineering skills..
+Hi! I'm a Software Engineering student focused on building practical software projects and improving my engineering skills.
 
 🎓 **Software Engineering Student** | 📱 **Mobile and Web Development Enthusiast**
 
