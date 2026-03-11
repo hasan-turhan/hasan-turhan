@@ -4,7 +4,7 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 
 🎓 **Software Engineering Student** | 📱 **Mobile and Web Development Enthusiast**
 
-💼 Actively looking for a **mandatory summer software engineering internship (Pflichtpraktikum) 
+💼 Actively looking for a **mandatory summer software engineering internship (Pflichtpraktikum) **
 
 📅 **Available:** June 22 – September 8, 2026
 
@@ -38,6 +38,7 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 - Python Programming
 - REST API Development
 - Machine Learning
+- Deep Learning
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - SOLID Principles & Clean Code
