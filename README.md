@@ -4,7 +4,7 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 
 🎓 **Software Engineering Student** | 📱 **Mobile and Web Development Enthusiast**
 
-💼 Actively looking for a **mandatory summer software engineering internship (Pflichtpraktikum) in Germany**  
+💼 Actively looking for a **mandatory summer software engineering internship (Pflichtpraktikum) 
 📅 **Available:** June 22 – September 8, 2026
 
 🌍 Based in **Türkiye**
