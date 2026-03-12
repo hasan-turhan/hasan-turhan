@@ -2,7 +2,7 @@
 
 Hi! I'm a Software Engineering student focused on building practical software projects and improving my engineering skills.
 
-🎓 **Software Engineering Student** | 📱 **Mobile and Web Development Enthusiast**
+🎓 **Software Engineering Student** | **📱 Mobile & Web Developer**  |  🤖 **AI & Machine Learning Enthusiast**
 
 💼 Actively looking for a **mandatory summer software engineering internship (Pflichtpraktikum)**
 
