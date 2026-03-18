@@ -64,7 +64,7 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 ---
 
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <p align="center">
 
@@ -72,7 +72,11 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 
 </p>
 
-<p align="center"> Eye Detection using OpenCV (in progress) </p>
+### 👁️ Eye Detection using OpenCV *(in progress)*
+
+- Developing a computer vision project for real-time eye detection using OpenCV  
+- Working with image processing techniques and Haar Cascade classifiers  
+- Goal: build a foundation for future projects in biometrics and facial analysis  
 
 ---
 
