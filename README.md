@@ -36,12 +36,11 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 
 ## 🌱 Currently Learning
 
-- Python Programming
+- Python for Machine Learning
+- PyTorch & OpenCV
 - REST API Development
 - Machine Learning
-- Deep Learning
 - Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
 - SOLID Principles & Clean Code
 
 ---
