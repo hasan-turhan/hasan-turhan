@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi! I'm a Software Engineering student focused on building practical software projects and improving my engineering skills.
+Hi! I'm a Software Engineering student with a growing interest in **computer vision and machine learning**, focused on building practical software projects and improving my engineering skills.
 
 🎓 **Software Engineering Student** | **📱 Mobile & Backend**  |  🤖 **Exploring AI & Computer Vision**
 
