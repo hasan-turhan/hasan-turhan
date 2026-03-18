@@ -24,11 +24,12 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 
 ## 💻 Interested in
 
-- Software Development
+- Machine Learning & Deep Learning
+- Backend Development
 - Android Development
+- Data Processing & Analysis
 - Web Technologies
 - Database Systems
-- AI
 - Object-Oriented Programming (OOP)
 
 ---
