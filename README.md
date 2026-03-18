@@ -72,6 +72,8 @@ Hi! I'm a Software Engineering student focused on building practical software pr
 
 </p>
 
+<p align="center"> Eye Detection using OpenCV (in progress) </p>
+
 ---
 
 ## 📫 Connect with Me
