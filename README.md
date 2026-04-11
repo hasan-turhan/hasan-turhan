@@ -4,10 +4,6 @@ Hi! I'm a Software Engineering student with a growing interest in **computer vis
 
 🎓 **Software Engineering Student** | **📱 Mobile & Backend**  |  🤖 **Exploring AI & Computer Vision**
 
-💼 Actively looking for a **mandatory summer software engineering internship (Pflichtpraktikum)**
-
-📅 **Available:** June 22 – September 8, 2026
-
 🌍 Based in **Türkiye**
 
 🧠 Currently self-studying **German (A2–B1 level)**
